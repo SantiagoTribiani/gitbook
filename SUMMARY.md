@@ -17,7 +17,3 @@
   * [Razones](por-que-me-contrataron/razones.md)
   * [Expectativas](por-que-me-contrataron/expectativas.md)
 
-## Institucional
-
-* [Untitled](institucional/untitled.md)
-
