@@ -5,6 +5,8 @@
 * [Making Sense](making-sense/README.md)
   * [Sus Inicios](making-sense/sus-inicios.md)
   * [Misión y Visión](making-sense/mision-y-vision.md)
+  * [Organigrama](making-sense/organigrama.md)
+  * [La filosofía](making-sense/la-filosofia.md)
 * [Principios que nos guían](principios-que-nos-guian/README.md)
   * [Cause a WOW effect on our partners](principios-que-nos-guian/cause-a-wow-effect-on-our-partners.md)
   * [Act as one team with one mission](principios-que-nos-guian/act-as-one-team-with-one-mission.md)
@@ -16,4 +18,9 @@
 * [¿Por qué me contrataron?](por-que-me-contrataron/README.md)
   * [Razones](por-que-me-contrataron/razones.md)
   * [Expectativas](por-que-me-contrataron/expectativas.md)
+* [Procedimientos](procedimientos/README.md)
+  * [Sistema de Pedidos de Almuerzo](procedimientos/sistema-de-pedidos-de-almuerzo.md)
+  * [Procedimientos para Reuniones](procedimientos/procedimientos-para-reuniones.md)
+  * [Disponibilidad de recursos en calendario](procedimientos/disponibilidad-de-recursos-en-calendario.md)
+  * [Proceso de Solicitud de Días](procedimientos/proceso-de-solicitud-de-dias.md)
 
