@@ -1,10 +1,13 @@
-## Repository rules
-Since the main resource we work with is code, it is paramount for the projects' health (and our own) that we keep a set of rules to work in all repositories in an orderly fashion.
+# Repository rules
 
-### Gitflow
+Since the main resource we work with is code, it is paramount for the projects' health \(and our own\) that we keep a set of rules to work in all repositories in an orderly fashion.
+
+## Gitflow
+
 We follow [gitflow](http://nvie.com/posts/a-successful-git-branching-model/) as a branching and tagging model, where `master` acts as a development branch and a `stable` branch is kept.
 
-### Versioning
+## Versioning
+
 Versions should be noted as `MAJOR.MINOR.PATCH(-preX)`. We follow [semantic versioning](http://semver.org/) for MAJOR, MINOR and PATCH.
 
 * MAJOR version when you make incompatible API changes,
@@ -13,7 +16,8 @@ Versions should be noted as `MAJOR.MINOR.PATCH(-preX)`. We follow [semantic vers
 
 The `-pre1`, `-pre2`, etc are consecutive deploys to staging until such version is given the go ahead by the QA team.
 
-### Commit messages
+## Commit messages
+
 We aim for these [guidelines](http://chris.beams.io/posts/git-commit/):
 
 * Separate subject from body with a blank line
@@ -24,8 +28,9 @@ We aim for these [guidelines](http://chris.beams.io/posts/git-commit/):
 * Wrap the body at 72 characters
 * Use the body to explain what and why vs. how
 
-#### Example
-```
+### Example
+
+```text
 Summarize changes in around 50 characters or less
 
 More detailed explanatory text, if necessary. Wrap it to about 72
@@ -55,7 +60,7 @@ Resolves: #123
 See also: #456, #789
 ```
 
-### Guidelines
+## Guidelines
 
 Several other things to consider when working in a repository.
 
@@ -71,3 +76,4 @@ Several other things to consider when working in a repository.
 * Freeze Milestone when Branching a Release
 * Don't Add Features on Frozen Milestones
 * Bug Issues on Frozen Milestones
+
