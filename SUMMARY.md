@@ -4,6 +4,7 @@
 * [Para qué es este Handbook](institucional-1.md)
 * [Making Sense](making-sense/README.md)
   * [Sus Inicios](making-sense/sus-inicios.md)
+  * [Prueba de edicion](making-sense/prueba-de-edicion.md)
   * [Misión y Visión](making-sense/mision-y-vision.md)
   * [Organigrama](making-sense/organigrama.md)
   * [La filosofía](making-sense/la-filosofia.md)
