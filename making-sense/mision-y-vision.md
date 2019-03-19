@@ -1,4 +1,12 @@
-# Misión y Visión
+---
+description: >-
+  If we want to grow up on solid bases we have to be aligned with our north, and
+  work in the pursuit of it.
+---
+
+# Mission and Vision
+
+Our Mission
 
 “To design and develop innovative technology solutions that delight end users and deliver tangible value to our clients.”
 
