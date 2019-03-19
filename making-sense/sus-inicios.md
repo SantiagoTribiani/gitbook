@@ -1,6 +1,6 @@
 # Sus Inicios
 
-Desde su nacimiento en 2006, la idea de sus fundadores marplatenses, los hermanos Damián y Cesar D’Onofrio, fue dar nacimiento a una empresa que promoviera el talento y la creatividad de jóvenes de distintas regiones del país, como Mar del Plata, Tandil y Santa Fe, entre otras, sin necesidad de que estos deban mudarse a la ciudad de Buenos Aires o al exterior para poder desarrollarse profesionalmente.
+Defsdfsfdfdcimiento en 2006, la idea de sus fundadores marplatenses, los hermanos Damián y Cesar D’Onofrio, fue dar nacimiento a una empresa que promoviera el talento y la creatividad de jóvenes de distintas regiones del país, como Mar del Plata, Tandil y Santa Fe, entre otras, sin necesidad de que estos deban mudarse a la ciudad de Buenos Aires o al exterior para poder desarrollarse profesionalmente.
 
 Conformada por más de 200 profesionales distribuidos enoficinas ubicadas en Palo Alto, California en Estados Unidos,Mar del Plata, Tandil, Córdoba y Buenos Aires en Argentina y en México DF, Making Sense se enfoca en ofrecerdesarrollo de software con foco en la Experiencia de Usuario \(UX\).
 
