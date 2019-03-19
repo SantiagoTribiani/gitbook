@@ -17,6 +17,7 @@
   * [Our Departments](making-sense/our-departments.md)
   * [The UX Department](making-sense/the-ux-department.md)
   * [The QADepartment](making-sense/the-qadepartment.md)
+  * [The BA Department](making-sense/the-ba-department.md)
   * [The Development Department](making-sense/the-development-department.md)
   * [The Project Management Department](making-sense/the-project-management-department.md)
   * [Referents](making-sense/referents.md)
