@@ -1,20 +1,29 @@
-# Sus Inicios
+# The Beginnings
 
-Desde su experiencia laboral en USA, en la mente de César - D’Onofrio- comenzaba a gestarse la idea de una empresa que ofreciera un servicio de desarrollo distinto a lo que venían entregando las empresas con las que él tenía contacto. 
+Going Further, Right From the Start
 
-Su formación en sistemas, sumada a su pasión por el diseño moldeaban el deseo de Cesar de, no solo entregar soluciones de desarrollo, sino ir más allá. y que el diseño y la “User Experience” sean los diferenciales de cada producto.
+César’s idea for a new kind of company started taking shape early on. From his work experience in the USA, the idea of starting a company that offered a development service different from those he had worked with, began to take shape.
 
-En 2006 junto con Damián, su hermano radicado en Argentina, fundaron “Common Sense” \(primer nombre de Making Sense\) con el principal objetivo de proveer productos de software innovadores y de transformar la tecnología en un elemento clave de la estrategia comercial.Con esa premisa se fue en búsqueda de los primeros clientes fuera de Argentina, a los que no solo se les ofrecía desarrollo, sino además UX. Cada paso, cada línea de código, tenía el usuario en el foco. A partir de la experiencia ofreciendo software surge la idea de tener un producto propio, es así que ese mismo año nace Doppler, hoy consolidada como una de las herramientas de Email Marketing más usadas en Latino América. 
+His training in systems and his passion for design shaped Cesar's desire not only to deliver development solutions but to go even further. In Cesar’s world, design and "User Experience" are elevated to become actual differentiators of the product.
 
-De a poco se sumaron más personas a lo que ya no era un incipiente proyecto, y junto con Nacho, Sergio y Juan inauguraron su primer oficina. Un departamento que ellos mismos pintaron. 
+Damián and Cesar started wondering, why not take their passion and transfer it into developing products for other companies.
 
-Al poco tiempo, marcas como Dell, AMD y MIcrosoft confiaban en los servicios de Making Sense.
+With this premise, in 2006, he and Damián, his Argentina-based brother, founded "Common Sense" \(the original name of Making Sense\). Their main objective was to provide innovative software products.
 
- La experiencia con Doppler, los motivaba e iban por más, 4 años después de ese hito, lanzaron al mercado Lander, una aplicación web para la creación de Landing Pages. Producto que luego de años de desarrollo y crecimiento en USA, fue vendida a una empresa de Silicon Valley. 
+Cesar started looking for customers outside of Argentina, to whom they offered not just development but also UX. They would take each step and write each line of code with the user in mind.
 
-Hoy en Making Sense trabajamos desde la concepción de un proyecto codo a codo con nuestros clientes, o en la modernización de aplicaciones que ya estén utilizando, enfocando cada decisión y cada paso en la Experiencia de Usuario \(UX\). Trabajamos con el usuario en el centro y eso es lo que nos distingue. Le ofrecemos a nuestros clientes servicios basados en soluciones web, integración de aplicaciones, migraciones, mantenimiento y soporte.
+Little by little, more people joined their group. It what was no longer just an idea on the verge of becoming something. It was real and it was happening. Together with Nacho, Sergio and Juan, they opened their first office \(an office that they painted themselves, btw!\).
 
-Con orgullo, les podemos contar que hoy somos más de 200 profesionales distribuidos en oficinas ubicadas en Palo Alto, California en Estados Unidos, Mar del Plata, Tandil, Córdoba y Buenos Aires en Argentina y en México DF. 
+Soon, brands like Del, AMD and Microsoft came to regard the services of Making Sense.
 
-Somos miembros de la Cámara de Empresas deSoftware & Servicios Informáticos de la República Argentina\(CESSI\) y somos su representante en Estados Unidos a través de la red ArgenTInaIT, una plataforma de internalización cuyo objetivo es facilitar la inserción y consolidación de las empresas argentinas de software y servicios informáticos en los mercados mundiales más atractivos. También, somos miembros de ATICMA, organización que agrupa a profesionales independientes, emprendedores, empresas y universidades del sector TIC de Mar del Plata y la región.
+ After much effort, they managed to launch their first product and Doppler was born. Today, it’s considered to be one of the most predominant email marketing tool in Latin America.
+
+But Doppler was the trigger for something more. Their experience with Doppler motivated them and they went for more. 4 years after that milestone, Lander was launched. Lander is a web application for the creation of Landing Pages and is a product which, after years of development and growth in the USA, was sold to a Silicon Valley company.
+
+Today at Making Sense, we work side-by-side with our clients toward the conception of new projects or the modernization of applications that they are already using. User Experience \(UX\) figures heavily in every decision and with every step we take. We put the user front-and-center, which is what distinguishes our company. We offer our clients services based on web solutions, application integration, migration, maintenance and support.
+
+With pride, we can tell you that today we are more than 200 professionals working in offices located in Palo Alto, California in the United States, Mar del Plata, Tandil, Córdoba and Buenos Aires in Argentina and Mexico City.
+
+We are members of the Chamber of Software Companies & Services of Argentina \(CESSI\) and its representatives in the United States through the ArgenTInaIT network, an internalization platform whose objective is to facilitate the insertion and consolidation of Argentine software companies and computer services in the most attractive global markets. Also we are members of ATICMA, an association engaged in grouping ICT freelancers, entrepreneurs, businesses and universities in Mar del Plata and surroundings to work together.  
+
 
