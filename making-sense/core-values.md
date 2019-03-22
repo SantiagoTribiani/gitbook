@@ -8,7 +8,7 @@ If something matters here, are our core values. We believe in the importance of 
 
 We want to blow our partners’ mind when they deal with us, preferably at the beginning of the relationship, so we are positioned to grow. We want to cause a“WOW” effect on our clients, we want them to be impressed by our high quality of service and surprised by unexpected actions that have a positive impact. We want them to see, from the beginning, that we will add value to his company, not only doing what is required or expected, but also by going the extra mile.
 
-## Act as one team with one missiom
+## Act as one team with one mission
 
 We want our entire organization and team members to be aligned with our mission, vision and values. “One team” members collaborate and learn together, share wins and losses. “Individual commitment to a group effort – that is what makes a team work, a company work, a society work, a civilization work.” \(Quote from Vince Lombardi, coach of the Green Bay Packers during the 1960s\)
 
@@ -16,7 +16,7 @@ We want our entire organization and team members to be aligned with our mission,
 
 We are not superheroes, we need our team to support us. Trust them, help them, work together. Don’t leave teammates behind, enable them by lending a hand to help them accomplish things they could not do by themselves. And help them learn so they empower themselves by acquiring the means to take more control and become stronger and more independent.
 
-## Build relationshops based on empathy and opne/honest communication
+## Build relationships based on empathy and open/honest communication
 
 Honesty and openness help build trust and compatibility. When we and our clients openly reveal the facts of our past, our present activities, and our plans for the future, we are able to make intelligent decisions that take each other's needs into account, thus creating a win-win situation.
 
@@ -30,7 +30,7 @@ And we want to focus this passion on creating a competitive advantage by always 
 
 We want to be productive in a way that allows us to enjoy our work. We spend many hours working, we need to spend them in a smart way: Setting priorities, focusing on the important stuff, scheduling meetings and specific activities on our calendars. By working smart, we can find time to relax and have fun without losing focus on our objectives.
 
-## Be accountable for and proid of what you do
+## Be accountable for and proud of what you do
 
 We should “own” our assignments and feel responsible for our results. When we are personally accountable, we stop assigning blame, “should-ing” on people, and making excuses. Instead, we take the fall when our choices cause problems.
 
