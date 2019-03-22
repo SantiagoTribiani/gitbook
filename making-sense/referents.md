@@ -1,6 +1,6 @@
 # Referents
 
-Cesar D’Onofrio CEO 
+![](../.gitbook/assets/digital-blue.jpg) Cesar D’Onofrio CEO 
 
 Damián D’Onofrio \(President, Founder and CEO at Doppler\) 
 

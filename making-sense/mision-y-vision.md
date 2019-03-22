@@ -1,16 +1,14 @@
----
-description: >-
-  If we want to grow up on solid bases we have to be aligned with our north, and
-  work in the pursuit of it.
----
-
 # Mission and Vision
 
-Our Mission
+If we want to grow up on solid bases we have to be aligned with our north, and work in the pursuit of it.
 
-“To design and develop innovative technology solutions that delight end users and deliver tangible value to our clients.”
+## Our Mission
 
-Our Vision
+> “To design and develop innovative technology solutions that delight end users and deliver tangible value to our clients.”
 
-“By coupling elegant design, creative engineering and innovative technologies, we continuously push the envelope of possibility and deliver compelling solutions that provide our clients with a competitive edge.”
+## Our Vision
+
+> By coupling elegant design, creative engineering and innovative technologies, we continuously push the envelope of possibility and deliver compelling solutions that provide our clients with a competitive edge.
+
+
 
