@@ -8,13 +8,13 @@ Sergio Marchetti \(COO\)
 
  Ignacio Caldentey \(CPO\) 
 
-Santiago Tribiani \(Head of User Experience\) 
+Santiago Tribiani \(Head of UX\) 
 
 Betiana Castro \(Head of QA\)
 
  Paula Cascú \(HoD HR\) 
 
-Fernando Florez \(Head of Strategic Partnership\) 
+Fernando Florez \(Head of Strategic Partnerships\) 
 
 Sol Romeo \(CMO at Doppler\) 
 

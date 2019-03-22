@@ -1,4 +1,4 @@
-# UX Our Philosophy
+# Our Philosophy
 
 **UX \(Organization Philosophy\)**
 

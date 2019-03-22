@@ -1,2 +1,2 @@
-# The Project Management Department
+# Project Management Department
 

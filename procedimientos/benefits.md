@@ -2,7 +2,7 @@
 
 Lunch 
 
-We offer 5 different options per day for lunch. Also we have coffee, cereals, cookies and fruit available throughout the day.
+We offer 5 different options per day for lunch. Also we have coffee, cereals, cookies and fruit available during all the day.
 
 Active Pause 
 
