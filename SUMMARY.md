@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Making Sense Handbook](README.md)
-* [Para qué es este Handbook](institucional-1.md)
 * [Making Sense](making-sense/README.md)
   * [The Beginnings](making-sense/sus-inicios.md)
   * [Mission and Vision](making-sense/mision-y-vision.md)
