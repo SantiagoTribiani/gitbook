@@ -18,7 +18,7 @@ Soon, brands like Del, AMD and Microsoft came to regard the services of Making S
 
  After much effort, they managed to launch their first product and Doppler was born. Today, it’s considered to be one of the most predominant email marketing tool in Latin America.
 
-But Doppler was the trigger for something more. Their experience with Doppler motivated them and they went for more. 4 years after that milestone, Lander was launched. Lander is a web application for the creation of Landing Pages and is a product which, after years of development and growth in the USA, was sold to a Silicon Valley company.
+But Doppler was the trigger for something more. Their experience with Doppler motivated them and they went for more. 6 years after that milestone, Lander was launched. Lander is a web application for the creation of Landing Pages and is a product which, after years of development and growth in the USA, was sold to a Silicon Valley company.
 
 Today at Making Sense, we work side-by-side with our clients toward the conception of new projects or the modernization of applications that they are already using. User Experience \(UX\) figures heavily in every decision and with every step we take. We put the user front-and-center, which is what distinguishes our company. We offer our clients services based on web solutions, application integration, migration, maintenance and support.
 
