@@ -4,12 +4,20 @@ There is not only one right way to work but here in Making Sense we have one, ba
 
 Below you will find our most used daily work tools.:
 
-We use Slack for instant messaging, Zoom for online meetings, Google Drive to share our work with others and collaborate.  
+We use Slack for instant messaging,
+
+[https://makingsense.slack.com](https://makingsense.slack.com)
+
+ Zoom for online meetings, Google Drive to share our work with others and collaborate.  
 
 
 Jira for IT, HR \(licencias\) and Financial requests. 
 
+[http://jira.makingsense.com](http://jira.makingsense.com)
+
 Confluence to learn more about our departments.
+
+[http://confluence.makingsense.com/](http://confluence.makingsense.com/)
 
  We use Google Calendar to coordinate or schedule a meeting. There you'll find the calendars of the other team members so you can check their availability, as well as the available resources that we have in the office.
 

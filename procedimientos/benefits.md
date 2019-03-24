@@ -10,13 +10,13 @@ We all know about unhealthy habits that plague the work day. Therefore, here at 
 
 ## English Lessons 
 
-We trust in the power of communication and how we can build good relationships through it.. So, we give you the opportunity to improve your English. 
+We trust in the power of communication and how we can build good relationships through it. Have a good command of English allows you to have a better performance at your work, but also as we know it's a very important tool for you and for your own professional growth. 
 
-## 
+Read more about our English Lessons policy!
 
-Learn more!
-
-[http://confluence.makingsense.com/pages/viewpage.action?pageId=20054032  
+[**http://confluence.makingsense.com/pages/viewpage.action?pageId=20054032**  
 ](http://confluence.makingsense.com/pages/viewpage.action?pageId=20054032
 )
+
+## 
 
