@@ -14,6 +14,7 @@
   * [Project Management Department](making-sense/the-project-management-department.md)
   * [Referents](making-sense/referents.md)
   * [Locations](making-sense/locations.md)
+  * [Doppler](making-sense/doppler.md)
 * [Case Studies](case-studies/README.md)
   * [Opya -  Healthcare](case-studies/opya.md)
   * [Digital Blue - Law Enforcement](case-studies/digital-blue.md)

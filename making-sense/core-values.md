@@ -1,6 +1,6 @@
 # Core Values
 
-If something matters here, are our core values. We believe in the importance of share them, and we try at every time reflect them in our actions.
+Any solid structure is built upon common values. These core values guide our daily actions:
 
 ![](../.gitbook/assets/img_9702-1.jpg)
 

@@ -1,6 +1,8 @@
 # Mission and Vision
 
-If we want to grow up on solid bases we have to be aligned with our north, and work in the pursuit of it.
+We’re all working to achieve a great present, but always looking for a great future. 
+
+This is our north:
 
 ## Our Mission
 
