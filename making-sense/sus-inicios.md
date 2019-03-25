@@ -12,7 +12,7 @@ With this premise, in 2006, he and Damián, his Argentina-based brother, founded
 
 Cesar started looking for customers outside of Argentina, to whom they offered not just development but also UX. They would take each step and write each line of code with the user in mind.
 
-## Second Title?
+## Times of growth
 
 Little by little, more people joined their group. It what was no longer just an idea on the verge of becoming something. It was real and it was happening. Together with Nacho, Sergio and Juan, they opened their first office \(an office that they painted themselves, btw!\).
 
