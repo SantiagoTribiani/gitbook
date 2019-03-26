@@ -31,6 +31,7 @@
     * [Discovery](how-we-do-that/services-framework/discovery.md)
     * [Development](how-we-do-that/services-framework/development.md)
     * [Going Live](how-we-do-that/services-framework/going-live.md)
+  * [Our tech Stack](how-we-do-that/our-tech-stack.md)
 * [At Work](at-work/README.md)
   * [Resources](at-work/resources.md)
 * [Welcome onboard!](welcome-onboard.md)
