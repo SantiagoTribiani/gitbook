@@ -1,12 +1,8 @@
----
-description: >-
-  Any solid structure is built upon common values. These core values guide our
-  daily actions.
----
-
 # Core Values
 
 ![](../.gitbook/assets/img_9702-1.jpg)
+
+Any solid structure is built upon common values. **These core values guide our daily actions.**
 
 ### Cause a Wow Effect on our Partners
 

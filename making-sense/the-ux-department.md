@@ -8,5 +8,9 @@ Design simple to use products focused on helping people, giving them the easiest
 
 ### Area Lead
 
-Foto + Santiago Tribiani, UX Director
+![](../.gitbook/assets/st-profile.jpg) **Santiago Tribian**i, UX Director
+
+{% hint style="success" %}
+See more about the UX Department at [http://confluence.makingsense.com/display/UD/UX+Department](http://confluence.makingsense.com/display/UD/UX+Department)
+{% endhint %}
 

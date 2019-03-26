@@ -4,5 +4,5 @@
 
 Con una pequeña bajada
 
-![](../.gitbook/assets/screen-shot-2019-01-23-at-11.17.46.png)
+![](../.gitbook/assets/organigrama-new-frame-6.pdf)
 
